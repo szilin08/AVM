@@ -1,9 +1,9 @@
 streamlit
 plotly
-pmdarima==2.0.4
-
-pandas
 numpy
+pmdarima==2.0.4
+pandas
 scikit-learn
 prophet
+
 
